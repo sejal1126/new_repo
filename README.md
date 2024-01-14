@@ -37,8 +37,7 @@
     <td>Devops</td>
     <td>Database</td>
     <td>Frontend Development</td>
-
-    <td>Cloud</td>
+     <td>Cloud</td>
   </tr>
   <tr>
      <td>
